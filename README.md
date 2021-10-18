@@ -2,10 +2,13 @@
 by: Tim Raphael Tangonan
 ---
 
+demo of live site at: https://tims-travel-bucket-list.onrender.com
+
 run locally with `npm start`
 
 ---
 This repository uses the following notable technologies:
+- Render.com for hosting
 - React (create-react-app)
 - GraphCMS as a headless CMS
 - Apollo as a GraphQL client
