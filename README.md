@@ -2,7 +2,7 @@
 by: Tim Raphael Tangonan
 ---
 
-demo of live site at: https://tims-travel-bucket-list.onrender.com
+live demo site: https://tims-travel-bucket-list.onrender.com
 
 run locally with `npm start`
 
